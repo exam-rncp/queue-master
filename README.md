@@ -1,6 +1,5 @@
-[![Build Status](https://travis-ci.org/microservices-demo/queue-master.svg?branch=master)](https://travis-ci.org/microservices-demo/queue-master)
-[![Coverage Status](https://coveralls.io/repos/github/microservices-demo/queue-master/badge.svg?branch=master)](https://coveralls.io/github/microservices-demo/queue-master?branch=master)
-[![](https://images.microbadger.com/badges/image/weaveworksdemos/queue-master.svg)](http://microbadger.com/images/weaveworksdemos/queue-master "Get your own image badge on microbadger.com")
+[![ci](https://github.com/exam-rncp/queue-master/actions/workflows/main.yml/badge.svg)](https://github.com/exam-rncp/queue-master/actions/workflows/main.yml)
+[![Coverage Status](https://coveralls.io/repos/github/exam-rncp/queue-master/badge.svg?branch=main)](https://coveralls.io/github/exam-rncp/queue-master?branch=main)
 
 # DEPRECATED: queue-master
 
